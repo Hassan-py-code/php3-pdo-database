@@ -1,0 +1,43 @@
+
+
+
+# PDO Database Connection – Chapter Summary
+
+
+
+**PDO (PHP Data Objects)**
+A PHP extension used to connect PHP with a database.
+
+**Database**
+A place where data is stored (for example users, posts, products).
+
+**MySQL**
+A database management system used to store and manage data.
+
+**DSN (Data Source Name)**
+A string that contains the information needed to connect to the database (host and database name).
+
+**Host**
+The server where the database is located. Usually `localhost`.
+
+**DBName (Database Name)**
+The name of the database (example:solicode_Tn).
+
+
+**Password**
+The password used for the database user.
+
+**Try / Catch**
+Used to handle errors in PHP.
+
+**Exception**
+An error that happens during the execution of a program.
+
+**PDOException**
+An error related to PDO database connection.
+
+**setAttribute()**
+Used to configure PDO settings.
+
+**require**
+Used to include a PHP file inside another file.
