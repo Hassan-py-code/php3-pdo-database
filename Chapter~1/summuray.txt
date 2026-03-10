@@ -1,12 +1,13 @@
 
 
 
+
+
+
 # PDO Database Connection – Chapter Summary
 
+pdo is extension used to connect php with database
 
-
-**PDO (PHP Data Objects)**
-A PHP extension used to connect PHP with a database.
 
 **Database**
 A place where data is stored (for example users, posts, products).

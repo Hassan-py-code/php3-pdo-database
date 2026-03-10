@@ -1,0 +1,11 @@
+
+
+
+
+
+
+select sql coommand used to retrive data from database
+Pdo is extention used to connect with database
+quey method used to excute sql data
+fetch retrives all rows from the result
+
