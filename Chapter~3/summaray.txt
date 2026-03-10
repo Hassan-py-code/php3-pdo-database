@@ -1,0 +1,13 @@
+
+
+
+
+
+
+first create file php to add connection pdo with database ("connection.php")
+then include this file 
+after that create database her name  (oomdb)  and  table (students) 
+insert into table of students database values (name and email)
+and learn how to use update in php to chnage data 
+finally delete this row in students
+rowcount can give me how many row  i have in table students
