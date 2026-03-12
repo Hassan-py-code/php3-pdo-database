@@ -1,0 +1,8 @@
+
+
+
+
+
+pdo is extension to connect database with php 
+file_put_contents is used to put content into a file 
+in this example we are putting $e->getMessage() into the end of the errors.log file 
