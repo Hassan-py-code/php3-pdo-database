@@ -1,0 +1,8 @@
+
+
+
+
+include file of connection
+insert into table of users a new user
+Prepared queries help protect the database by separating SQL code from user input.
+bindParam() => we use it when we use variable in prepare code and it is secure from sql injection attacks
