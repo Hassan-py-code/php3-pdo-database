@@ -1,0 +1,2 @@
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'hassan@gmail.ocm' for key 'Email'
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'jej@jd.com' for key 'Email'
